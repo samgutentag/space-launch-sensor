@@ -1,0 +1,12 @@
+{
+  "domain": "space_launch_sensor",
+  "name": "Space Launch Sensor",
+  "version": "1.0.0",
+  "documentation": "https://github.com/samgutentag/space-launch-sensor",
+  "issue_tracker": "https://github.com/samgutentag/space-launch-sensor/issues",
+  "dependencies": [],
+  "codeowners": ["@samgutentag"],
+  "requirements": ["requests", "aiohttp"],
+  "iot_class": "cloud_polling",
+  "config_flow": false
+}
