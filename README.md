@@ -13,7 +13,7 @@ A Home Assistant integration that tracks upcoming space launches from specific l
 | -------- | ---------------------------------------------------------------- |
 | `sensor` | Show upcoming space launch information with countdown attributes |
 
-![Example](https://github.com/yourusername/space-launch-sensor/raw/main/example.png)
+![Example](https://github.com/samgutentag/space-launch-sensor/raw/main/example.png)
 
 ## Features
 
@@ -196,11 +196,11 @@ This integration was developed for the Home Assistant community.
 
 ---
 
-[space-launch-sensor]: https://github.com/yourusername/space-launch-sensor
-[commits-shield]: https://img.shields.io/github/commit-activity/y/yourusername/space-launch-sensor.svg?style=for-the-badge
-[commits]: https://github.com/yourusername/space-launch-sensor/commits/main
+[space-launch-sensor]: https://github.com/samgutentag/space-launch-sensor
+[commits-shield]: https://img.shields.io/github/commit-activity/y/samgutentag/space-launch-sensor.svg?style=for-the-badge
+[commits]: https://github.com/samgutentag/space-launch-sensor/commits/main
 [hacs]: https://github.com/hacs/integration
 [hacs-shield]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/yourusername/space-launch-sensor.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/yourusername/space-launch-sensor.svg?style=for-the-badge
-[releases]: https://github.com/yourusername/space-launch-sensor/releases
+[license-shield]: https://img.shields.io/github/license/samgutentag/space-launch-sensor.svg?style=for-the-badge
+[releases-shield]: https://img.shields.io/github/release/samgutentag/space-launch-sensor.svg?style=for-the-badge
+[releases]: https://github.com/samgutentag/space-launch-sensor/releases
